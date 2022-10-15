@@ -1,0 +1,21 @@
+.p{
+    padding: 50px;
+    /* text-align: center; */
+}
+.p_list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.p_head{
+    text-align: center;
+}
+.p_head_title{
+    margin: 20px;
+}
+.p_head_desc{
+    padding: 20px;
+    margin: auto;
+    width: 70%;
+}
